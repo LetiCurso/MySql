@@ -1,0 +1,1 @@
+SELECT * FROM users WHERE edad BETWEEN 14 and 30
